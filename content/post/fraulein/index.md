@@ -17,4 +17,5 @@ The taste was a bit underwhelming for me. It was sweet and sour and crisp, but i
 
 
 Price: 2.99€ per kg / 4 big Apples (non organic)
+
 Rating: 7/10
