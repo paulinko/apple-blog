@@ -3,7 +3,6 @@ title: Fräulein
 description: A big little lady
 slug: fraulein
 date: 2022-12-11 00:00:00+0000
-image: cover.jpg
 categories:
     - Review
 tags:
