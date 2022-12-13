@@ -7,6 +7,7 @@ categories:
     - Review
 tags:
     - 7/10
+comments: false
 ---
 
 "Fräulein" (German for Miss or little lady) is a apple breed I discovered in my grocery store recently.
