@@ -26,7 +26,7 @@ readingTime = true
 
 [article.license]
 enabled = true
-default = 'Licensed under CC BY-NC-SA 4.0. Avatar Photo by <a href="https://unsplash.com/@kat_von_wood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kat von Wood</a> on <a href="https://unsplash.com/s/photos/apple-blossom?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
 [[widgets.homepage]]
@@ -74,7 +74,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]
