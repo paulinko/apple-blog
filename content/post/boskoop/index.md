@@ -8,6 +8,10 @@ categories:
     - Review
 tags:
     - 8/10
+links:
+    - title: Obstarche Reddelich
+      description: Analytic data about sugar and acid content of different apple breeds
+      website: https://www.obstarche-reddelich.de/apfelsorten-fuer-diabetiker/
 comments: false
 ---
 
