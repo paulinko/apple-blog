@@ -30,8 +30,8 @@ There is a lot going on in this apple.
 
 Boskoops are usually pretty big, and they are also heavy. A normal boskoop weighs around 200g but I regularily see big ones weighing 300 or 400g.
 
-I really like Boskoop, it's my favorite winter time snack and perfect in apple pie.
+I really like Boskoop, it is my favorite winter time snack and perfect in apple pie.
 
-Price: 2.99€ per kg / 2 big Apples (non organic)
+Price: 2.99€ per kg / ca. 3 big Apples (non organic)
 
 Rating: 8/10
