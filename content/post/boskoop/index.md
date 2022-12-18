@@ -9,7 +9,7 @@ categories:
 tags:
     - 8/10
 links:
-    - title: Obstarche Reddelich
+    - title: Obstarche Reddelich (German)
       description: Analytic data about sugar and acid content of different apple breeds
       website: https://www.obstarche-reddelich.de/apfelsorten-fuer-diabetiker/
 comments: false
@@ -18,7 +18,7 @@ comments: false
 Boskoop is an older apple breed and it belongs to the winter apples.
 That means they are harvested pretty late in the year. 
 The easiest time to find them in stores are winter months like november or december. 
-They also are a popular option for Bratapfel which may be related to this time of year.
+They also are a popular option for baked apples which may be related to this time of year.
 
 I would describe the taste of this apple breed as very aromatic and pleasently sour.
 
