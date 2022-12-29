@@ -1,6 +1,6 @@
 ---
 title: Machineel
-description: The apple queen
+description: The deadly dwarf 
 slug: machineel
 date: 2022-12-29 00:00:00+0000
 image: machineel.png
