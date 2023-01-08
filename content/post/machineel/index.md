@@ -19,3 +19,5 @@ You cannot buy the small death apples in stores. But the trees can be found at c
 Price: N/A
 
 Rating: deadly/10
+
+Photo © Hans Hillewaert / CC BY-SA 4.0
